@@ -59,9 +59,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+![Maxix25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxix25&theme=dracula&hide_border=false)
+![Maxix25's Stats](https://github-readme-stats.vercel.app/api?username=Maxix25&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Maxix25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
