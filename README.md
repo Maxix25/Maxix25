@@ -7,15 +7,13 @@ I'm Maxi, a backend enthusiast from Chile.<br>
 I love building full-stack web applications with Python, TypeScript, Django, React, Vite, Postgres, and Docker.<br>
 I'm passionate about open source and web development<br>
 <br>
-<b>Fun fact:</b> I enjoy tweaking my Linux desktop!
 </p>
 
-<h3 align="left">📝 Projects I Like</h3>
+<h3 align="left">📝 Projects I've Built</h3>
 
 <ul>
   <li><a href="https://github.com/Maxix25/react-django-blog">react-django-blog</a></li>
   <li><a href="https://github.com/Maxix25/blog">blog</a></li>
-  <li>...and always open to new cool projects!</li>
 </ul>
 
 <h3 align="left">🛠 Language and tools</h3>
