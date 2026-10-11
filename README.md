@@ -12,6 +12,7 @@ I'm passionate about open source and web development<br>
 <h3 align="left">📝 Projects I've Built</h3>
 
 <ul>
+  <li><a href="https://github.com/Maxix25/code-duel">react-django-blog</a></li>
   <li><a href="https://github.com/Maxix25/react-django-blog">react-django-blog</a></li>
   <li><a href="https://github.com/Maxix25/blog">blog</a></li>
 </ul>
